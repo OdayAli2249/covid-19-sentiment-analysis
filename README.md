@@ -40,11 +40,6 @@ To ensure robust model performance and avoid overfitting, the dataset was divide
 - **Cross-Validation Set**: This set is used to fine-tune the models and select the best hyperparameters. By evaluating model performance on the cross-validation set, we can optimize the models without overfitting to the training data.
 - **Testing Set**: The final set, which is used to evaluate the performance of the models after training and hyperparameter tuning. This set provides an unbiased assessment of how well the models generalize to new, unseen data.
 
-The data was split as follows:
-- **Training Set**: 70%
-- **Cross-Validation Set**: 15%
-- **Testing Set**: 15%
-
 Two different models were trained to classify the sentiment of the text data:
 - **Deep Learning with Artificial Neural Networks (ANN)**: Leveraging the power of deep learning to capture complex patterns in the data.
 - **Linear Regression**: A simple yet effective model for sentiment prediction.
