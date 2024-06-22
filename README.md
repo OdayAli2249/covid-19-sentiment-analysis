@@ -42,7 +42,7 @@ Two different models were trained to classify the sentiment of the text data:
 <div style='display:flex;'>
 <img src="results/1.png" alt="Smaller" width="300"/>
 <img src="results/2.png" alt="Smaller" width="300"/>
-<img src="results/final results table5.png" alt="Smaller" width="300"/>
+<img src="results/final results table.png" alt="Smaller" width="300"/>
 </div>
 
 
